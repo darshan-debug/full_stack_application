@@ -1,0 +1,2 @@
+1)KEEP THE CONSOLE OPENED,ALL ERRORS WILL COME THERE
+2)USE THAT EXTENSION(shown in video),OTHERWISE THE DATA from db,will not be permited in browser
